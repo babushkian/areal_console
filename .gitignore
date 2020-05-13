@@ -1,0 +1,6 @@
+1
+*.pyc
+*__pycache__
+*.csv
+sim_*
+world.db
